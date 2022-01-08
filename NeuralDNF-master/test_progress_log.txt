@@ -1,0 +1,2 @@
+Log File Started: 
+0:00:00)../NeuralDNF-master/15npb=2500_nb=16.p||0 formulas tested
